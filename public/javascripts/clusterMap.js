@@ -129,3 +129,4 @@ map.on('load', function () {
         map.getCanvas().style.cursor = '';
     });
 });
+
