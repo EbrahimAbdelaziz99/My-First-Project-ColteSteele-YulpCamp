@@ -1,4 +1,4 @@
-# first-shot
+# My First Project
 
 this is my follow-along graduation-project from The-Web-Developer-Bootcamp-2022 course by Colte Steele on Udemy 
 
